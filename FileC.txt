@@ -1,4 +1,0 @@
-This is FileC.
-
-making this change on the gitHub under FeatureA branch from git web.
-Maing change from the new branch Ferature100 branch locally.

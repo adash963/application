@@ -1,3 +1,0 @@
-This is a text file A.
-
-Changing the file A to cehck the files in git repository
