@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is file B.
+=======
+This is file B.
+
+I have added a feature branches. Making this change in the featureA branch.
+>>>>>>> featureA
